@@ -1,5 +1,5 @@
 const inquirer = require('inquirer');
-const generateMarkdown = require("../../generateMarkdown");
+const generateMarkdown = require("../lib/generateMarkdown");
 const Engineer = require("./Engineer"); 
 const Manager = require("./Manager"); 
 const Intern = require("./Intern"); 

@@ -33,4 +33,4 @@ THEN I exit the application, and the HTML is generated<br>
 ## Usage 
 
 
-Access deployed application here-  
+Access deployed application here- https://fauziashafi.github.io/Team-Generator/ 
