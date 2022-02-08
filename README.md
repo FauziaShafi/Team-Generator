@@ -31,6 +31,7 @@ THEN I exit the application, and the HTML is generated<br>
 
 
 ## Usage 
+<img src= "assets/images/img1.png">
 
 
-<a src= "https://watch.screencastify.com/v/prpl2EjI1L4UmsCKuD33" alt= "Video-Walkthrough">Video walkthrough </a>
+Video walkthrough - https://watch.screencastify.com/v/prpl2EjI1L4UmsCKuD33
