@@ -31,7 +31,7 @@ THEN I exit the application, and the HTML is generated<br>
 
 
 ## Usage 
-<img src= "assets/images/img1.png">
+<img src= "./images/img1.png">
 
 
 Video walkthrough - https://watch.screencastify.com/v/prpl2EjI1L4UmsCKuD33
