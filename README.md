@@ -33,4 +33,4 @@ THEN I exit the application, and the HTML is generated<br>
 ## Usage 
 
 
-Access deployed application here- 
+<a src= "https://watch.screencastify.com/v/prpl2EjI1L4UmsCKuD33" alt= "Video-Walkthrough">Video walkthrough </a>
